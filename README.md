@@ -21,7 +21,7 @@ Apple M2搭載Mac、macOS Tahoe 26.6.2で動作を確認しています。ほか
 
 ## 使い方
 
-最初に[HTMLマニュアル](MacでPDFの読み上げエビデンスを作る方法_2026-09-05.html)をお読みください。
+最初に[HTMLマニュアル]((https://corriedale99.github.io/mac-voiceover-pdf-evidence/MacでPDFの読み上げエビデンスを作る方法_2026-09-05.html))をお読みください。
 
 ```shell
 ./run_voiceover_evidence.sh "確認するPDF.pdf"
